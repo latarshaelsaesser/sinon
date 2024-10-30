@@ -1,0 +1,7 @@
+nav {
+    background-color: #333; /* Sets the background color to dark gray */
+    color: #fff; /* Sets the text color to white */
+    padding: 10px; /* Adds padding inside the <nav> element */
+    font-size: 18px; /* Sets the font size of the text inside <nav> */
+    /* Add more styles as needed */
+}
